@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Meli Aulia
 
-🎓 Information Systems Student
+🎓 Information Systems Student at Telkom University Bandung
 💡 Currently learning programming and data
 🚀 Interested in Web Development, Data Analysis, and UI/UX
 
