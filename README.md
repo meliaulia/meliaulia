@@ -1,9 +1,9 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0\:0:232526,100:414345\:fbc2eb\&height=200\&section=header\&text=Meli%20Aulia\&fontSize=40\&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0\:0:2193b0,100:6dd5ed\:fbc2eb\&height=200\&section=header\&text=Meli%20Aulia\&fontSize=40\&fontColor=ffffff)
 
 # Hi 👋, I'm Meli Aulia
 
-🎓 Information Systems Student at Telkom University Bandung
-💡 Currently learning programming and data
+🎓 Information Systems Student at Telkom University Bandung <br>
+💡 Currently learning programming and data <br>
 🚀 Interested in Web Development, Data Analysis, and UI/UX
 
 ---
