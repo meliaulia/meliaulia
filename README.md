@@ -1,16 +1,59 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0\:0:232526,100:414345\:fbc2eb\&height=200\&section=header\&text=Meli%20Aulia\&fontSize=40\&fontColor=ffffff)
 
-<!--
-**meliaulia/meliaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Meli Aulia
 
-Here are some ideas to get you started:
+🎓 Information Systems Student
+💡 Currently learning programming and data
+🚀 Interested in Web Development, Data Analysis, and UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+
+* 📧 Email: [meliaulia36@email.com](mailto:your@email.com)
+* 💼 LinkedIn: https://linkedin.com/in/meli-aulia
+
+---
+
+## 🧠 Currently Learning
+
+* 💻 Programming (C#, Java)
+* 📊 Data Processing (Excel, SQL)
+* 🎨 UI/UX Design (Figma)
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+
+### 📊 Data & Database
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Meli's GitHub stats](https://github-readme-stats.vercel.app/api?username=meliaulia\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+
+* 🔹 Still learning, projects coming soon
+
+---
+
+## ✨ About Me
+
+I’m currently building my foundation in programming and data.
+I enjoy learning step by step and exploring how technology can solve real-world problems 🚀
